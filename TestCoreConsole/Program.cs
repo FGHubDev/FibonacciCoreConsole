@@ -9,7 +9,7 @@ namespace TestCoreConsole
         {
             //Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Saisissez un nombre entre 1 et 10 :");
+            Console.WriteLine("Saisissez un nombre entre 1 et 100 :");
             Console.WriteLine(Fibonacci(Console.ReadLine()));
         }
 
